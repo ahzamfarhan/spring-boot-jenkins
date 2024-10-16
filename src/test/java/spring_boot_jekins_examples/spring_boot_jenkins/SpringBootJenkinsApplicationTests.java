@@ -16,6 +16,7 @@ class SpringBootJenkinsApplicationTests {
 	void contextLoads() {
 		logger.info("Test case executing...01");
 		logger.info("Test case executing...02");
+		logger.info("Test case executing...03");
         assertTrue(true);
 	}
 
